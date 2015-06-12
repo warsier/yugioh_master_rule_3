@@ -1,0 +1,5 @@
+{
+    "plugins": [
+        "gitbook-plugin-betterchinese"
+    ]
+}
