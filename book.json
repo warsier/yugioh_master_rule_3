@@ -1,5 +1,5 @@
 {
     "plugins": [
-        "gitbook-plugin-betterchinese"
+        "gitbook-plugin-yahei"
     ]
 }
