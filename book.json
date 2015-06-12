@@ -1,6 +1,5 @@
 {
     "plugins": [
-        "gitbook-plugin-yahei",
         "betterchinese"
     ],
     "pluginsConfig": {}
